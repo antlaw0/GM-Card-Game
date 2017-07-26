@@ -1,0 +1,70 @@
+English-American: Reed (Adult Male), 6.1
+English-American: Shelley (Adult Female), 6.1
+English-American: Grandma (Elderly Female), 6.1
+English-American: Grandpa (Elderly Male), 6.1
+English-American: Sandy (Child), 6.1
+English-American: Reed-Tel (Adult Male for Telephone), 6.1
+English-American: Shelley-Tel (Adult Female for Telephone), 6.1
+English-British: Justin (Adult Male), 6.1
+English-British: Jane (Adult Female), 6.1
+English-British: Nanny (Elderly Female), 6.1
+English-British: Gramps (Elderly Male), 6.1
+English-British: Nicky (Child), 6.1
+English-British: Justin-Tel (Adult Male for Telephone), 6.1
+English-British: Jane-Tel (Adult Female for Telephone), 6.1
+Spanish-Castilian: Carlos (Adult Male), 6.1
+Spanish-Castilian: Pilar (Adult Female), 6.1
+Spanish-Castilian: Abuela (Elderly Female), 6.1
+Spanish-Castilian: Abuelo (Elderly Male), 6.1
+Spanish-Castilian: Pepe (Child), 6.1
+Spanish-Castilian: Carlos-Tel (Adult Male for Telephone), 6.1
+Spanish-Castilian: Pilar-Tel (Adult Female for Telephone), 6.1
+Spanish-Mexican: José (Adult Male), 6.1
+Spanish-Mexican: Marisol (Adult Female), 6.1
+Spanish-Mexican: Abuelita (Elderly Female), 6.1
+Spanish-Mexican: Abuelito (Elderly Male), 6.1
+Spanish-Mexican: Panchito (Child), 6.1
+Spanish-Mexican: José-Tel (Adult Male for Telephone), 6.1
+Spanish-Mexican: Marisol-Tel (Adult Female for Telephone), 6.1
+French-Standard: Jacques (Adult Male), 6.1
+French-Standard: Jacqueline (Adult Female), 6.1
+French-Standard: Grand-mère (Elderly Female), 6.1
+French-Standard: Grand-père (Elderly Male), 6.1
+French-Standard: Marius (Child), 6.1
+French-Standard: Jacques-Tel (Adult Male for Telephone), 6.1
+French-Standard: Jacqueline-Tel (Adult Female for Telephone), 6.1
+French-Canadian: Daniel (Adult Male), 6.1
+French-Canadian: Nicole (Adult Female), 6.1
+French-Canadian: Grand-maman (Elderly Female), 6.1
+French-Canadian: Grand-papa (Elderly Male), 6.1
+French-Canadian: Denis (Child), 6.1
+French-Canadian: Daniel-Tel (Adult Male for Telephone), 6.1
+French-Canadian: Nicole-Tel (Adult Female for Telephone), 6.1
+German-Standard: Max (Adult Male), 6.1
+German-Standard: Gisela (Adult Female), 6.1
+German-Standard: Oma (Elderly Female), 6.1
+German-Standard: Opa (Elderly Male), 6.1
+German-Standard: Matti (Child), 6.1
+German-Standard: Max-Tel (Adult Male for Telephone), 6.1
+German-Standard: Gisela-Tel (Adult Female for Telephone), 6.1
+Italian-Standard: Enrico (Adult Male), 6.1
+Italian-Standard: Lucia (Adult Female), 6.1
+Italian-Standard: Nonna (Elderly Female), 6.1
+Italian-Standard: Nonno (Elderly Male), 6.1
+Italian-Standard: Chicco (Child), 6.1
+Italian-Standard: Enrico-Tel (Adult Male for Telephone), 6.1
+Italian-Standard: Lucia-Tel (Adult Female for Telephone), 6.1
+Portuguese-Brazilian: João (Adult Male), 6.1
+Portuguese-Brazilian: Cláudia (Adult Female), 6.1
+Portuguese-Brazilian: Avó (Elderly Female), 6.1
+Portuguese-Brazilian: Avô (Elderly Male), 6.1
+Portuguese-Brazilian: Chico (Child), 6.1
+Portuguese-Brazilian: João-Tel (Adult Male for Telephone), 6.1
+Portuguese-Brazilian: Cláudia-Tel (Adult Female for Telephone), 6.1
+Finnish-Standard: Antti (Adult Male), 6.1
+Finnish-Standard: Tarja (Adult Female), 6.1
+Finnish-Standard: Isoäiti (Elderly Female), 6.1
+Finnish-Standard: Isoisä (Elderly Male), 6.1
+Finnish-Standard: Pekka (Child), 6.1
+Finnish-Standard: Antti-Tel (Adult Male for Telephone), 6.1
+Finnish-Standard: Tarja-Tel (Adult Female for Telephone), 6.1
